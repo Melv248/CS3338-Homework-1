@@ -1,0 +1,76 @@
+commit daac328c6c276f14bb2cd630e099414fcf7c486b
+Author: Philip Guzman <pguzma24@calstatela.edu>
+Date:   Sat Feb 14 21:29:04 2026 -0800
+
+    Added changes to the groupmate info
+    
+    I want to point out that when I was editing this file, I think the groupmate info gone or just wasn't present. It was repeating the exact same template as the info for the host info, but I don't think that will be a problem.
+
+commit 2c25646e6323e5c3a1679d8fe7433dc87b946353
+Merge: 9d960b8 f0bf734
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Sat Feb 14 20:28:52 2026 -0800
+
+    correct pull request with the correct code from Melv248/feature-about-me
+    
+    Update index.html feature about me correctly
+
+commit f0bf734582695738671c8619bde24ef2e1c9c6f3
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Sat Feb 14 19:50:07 2026 -0800
+
+    Update index.html feature about me correctly
+
+commit 9d960b829c445f0b773afbe0d1d6119dda14a9d1
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Sat Feb 14 19:43:02 2026 -0800
+
+    added the correct code with my information
+
+commit 895a311ec1d71e411aad98950e138ee14c8ac398
+Merge: f37cdce f97c11b
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Fri Feb 13 11:04:39 2026 -0800
+
+    Merge pull request #1 from Melv248/feature-about-me
+    
+    Updated index.html with my personal information
+
+commit f97c11bd4ebe4d42aaf515bd5eadf55e4df7a230
+Author: Melv248 <melvinreyes1181@gmail.com>
+Date:   Fri Feb 13 10:48:29 2026 -0800
+
+    Updated index.html with my personal information
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
